@@ -11,3 +11,4 @@ I’m Halimat,a passionate learner transitioning into software development. I lo
 
 ### 🤝 Connect With Me  
 - [LinkedIn](www.linkedin.com/in/halimat-jubril) 
+- [email](jubrilharleemarh@gmail.com)
